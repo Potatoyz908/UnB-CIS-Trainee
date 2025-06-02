@@ -1,7 +1,3 @@
-Aqui está a atualização do seu **README** para incluir a parte sobre **Redes Neurais** baseada no que fizemos na atividade:
-
----
-
 # Student Clustering with K-Means & Neural Networks
 
 Este repositório apresenta dois estudos de caso completos: **agrupamento de estudantes** com o algoritmo **K-Means** e **classificação utilizando redes neurais** para prever categorias de objetos astronômicos (galáxias, estrelas e quasares).
@@ -105,8 +101,4 @@ Inclui explicações teóricas sobre os seguintes algoritmos:
 
 ## 📎 Licença
 
-Este projeto é apenas para fins educacionais, desenvolvido no contexto do **Treinamento CIS - 2º Período**.
-
----
-
-Essa atualização inclui a parte sobre **Redes Neurais** e mantém as informações sobre o estudo de **K-Means Clustering**. Assim, o seu repositório estará completo com ambos os estudos de caso!
+Este projeto é apenas para fins educacionais, desenvolvido no contexto do **Treinamento CIS - 2º Período e 3º Período**.
