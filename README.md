@@ -85,7 +85,7 @@ Inclui explicações teóricas sobre os seguintes algoritmos:
 1. Faça o clone do repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/UnB-CIS-Trainee.git
+   git clone https://github.com/Potatoyz908/UnB-CIS-Trainee.git
    ```
 
 2. Abra o notebook no Google Colab ou Jupyter Notebook:
