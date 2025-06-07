@@ -49,8 +49,8 @@ O conjunto de dados contém imagens de 7 classes diferentes de nuvens:
 
 | Modelo | Acurácia de Teste | Problema específico: stratiform clouds vs clear sky |
 |--------|-------------------|-----------------------------------------------------|
-| CNN do Zero | [A ser preenchido] | [A ser preenchido] |
-| ResNet50 | [A ser preenchido] | [A ser preenchido] |
+| CNN do Zero | 0.5390946269035339 | [A ser preenchido] |
+| ResNet50 |  | [A ser preenchido] |
 
 ### 3.2 Curvas de Treinamento
 
