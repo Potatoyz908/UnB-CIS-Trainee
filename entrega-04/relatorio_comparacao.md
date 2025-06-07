@@ -54,13 +54,14 @@ O conjunto de dados contém imagens de 7 classes diferentes de nuvens:
 
 ### 3.2 Curvas de Treinamento
 
-#### Modelo CNN do zero:
+#### Modelo do zero:
 
-![alt text](image.png)
+![alt text](zero.png)
+
 
 #### Modelo com Transfer Learning - ResNet50:
 
-![alt text](image-1.png)
+![alt text](transfer.png)
 
 ### 3.3 Matriz de Confusão
 
