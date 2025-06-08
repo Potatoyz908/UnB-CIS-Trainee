@@ -49,23 +49,21 @@ O conjunto de dados contém imagens de 7 classes diferentes de nuvens:
 
 | Modelo | Acurácia de Teste | Problema específico: stratiform clouds vs clear sky |
 |--------|-------------------|-----------------------------------------------------|
-| CNN do Zero | 0.5390946269035339 | falhou |
-| ResNet50 |  | sucesso |
+| CNN do Zero | 0.4855967164039612 | falhou |
+| ResNet50 | 0.08641975373029709 | sucesso |
 
 ### 3.2 Curvas de Treinamento
 
 #### Modelo do zero:
 
-![alt text](zero.png)
+![image](https://github.com/user-attachments/assets/696eb83b-a540-4c15-bf8d-0dfc3c9f3c98)
 
 
 #### Modelo com Transfer Learning - ResNet50:
 
-![alt text](transfer.png)
 
 ### 3.3 Matriz de Confusão
 
-[As matrizes de confusão serão adicionadas após o treinamento]
 
 ## 4. Análise do Problema Específico (stratiform clouds vs clear sky)
 
