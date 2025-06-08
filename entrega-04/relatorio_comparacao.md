@@ -78,11 +78,7 @@ Este problema específico ocorre devido à semelhança visual entre céu limpo e
 3. **Regularização Avançada**: Reduz o overfitting e melhora a generalização
 4. **Recursos Profundos da ResNet50**: Extrai características de alto nível que uma CNN simples não consegue
 
-## 5. Conclusões
-
-[A ser preenchido após os resultados]
-
-## 6. Referências
+## 5. Referências
 
 - He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems, 25.
